@@ -66,7 +66,8 @@ def factorial(n):
         return n * factorial(n - 1)
 
 # Ejemplo: calcular el factorial de 5
-print(factorial(5))  # Salida: 120
+print(factorial(5))  # llamar a la funcion factorial q tambien esta arriba
+# Salida: 120
 
 """ 
 Calcular el Valor de un Elemento en la Sucesión de Fibonacci
